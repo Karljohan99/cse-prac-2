@@ -1,7 +1,0 @@
-user.email=karljohan30@gmail.com
-user.name=
-filter.lfs.clean=git-lfs clean -- %f
-filter.lfs.smudge=git-lfs smudge -- %f
-filter.lfs.process=git-lfs filter-process
-filter.lfs.required=true
-__pycache__/ contains the bytecode of the compiled python program
